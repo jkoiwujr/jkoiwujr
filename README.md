@@ -2,7 +2,7 @@
 
 I'm currently learning how to code with some programming languages like Python and Javascript
 I'm looking for help with how to complete projects using Python.
-Fun fact: I fear heart.
+Fun fact: I fear height.
 <!--
 **jkoiwujr/jkoiwujr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
